@@ -45,4 +45,10 @@ Route::get('single', function () {
     return view('single');
 })->name('single');
 
+Route::get('addCar', function () {
+    return view('addCar');
+})->name('addCar');
 
+Route::get('test', function () {
+    return view('test');
+})->name('test');
