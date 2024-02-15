@@ -1,7 +1,7 @@
 @extends('admin.layouts.editPages')
 
 @section('title')
- editCar
+ edit Car
 @endsection
 
 @sectiont('content')

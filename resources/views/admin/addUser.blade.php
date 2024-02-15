@@ -1,7 +1,7 @@
 @extends('admin.layouts.addPages')
 
 @section('title')
-  Rent Car Admin |Add Category
+  Rent Car Admin |Add User
 @endsection
 
 
