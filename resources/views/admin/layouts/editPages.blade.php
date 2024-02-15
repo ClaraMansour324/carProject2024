@@ -59,5 +59,4 @@
 	</div>
 
     @include('admin.includes.js')
-
     </body></html>

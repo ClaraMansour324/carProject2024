@@ -4,7 +4,6 @@
   Rent Car Admin |Add Car
 @endsection
 
-
 @section('content')
 			<!-- page content -->
 			<div class="right_col" role="main">
